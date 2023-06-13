@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jayce Ese
+Hi <img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" data-canonical-src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" width="40" height="40" /> My name is Jayce Ese
 =================================================================================================================================
+
 
 Developer, Problem Solver, Team Player
 --------------------------------------
 
 Self-taught Front-End Developer with a strong passion for creating visually appealing and user-friendly websites.
 
-* 🌍  I'm based in Brisbane, Australia 🦘
-* 🖥️  See my portfolio at [jayceese.com](http://www.jayceese.com/#home)
-* ✉️  You can contact me at [jayce.ese@gmail.com](mailto:jayce.ese@gmail.com)
-* 🧠  I'm learning Typescript and Jest
-* ⚡  Currently looking to secure my first position as a junior frontend developer
+* <img src="https://media.giphy.com/media/rcSLJHmBdAMfRJ67bs/giphy.gif" data-canonical-src="https://media.giphy.com/media/rcSLJHmBdAMfRJ67bs/giphy.gif" width="20" height="20" />  I'm based in Brisbane, Australia <img src="https://media.giphy.com/media/qnJAun2dmsDBcz7InN/giphy.gif" data-canonical-src="https://media.giphy.com/media/qnJAun2dmsDBcz7InN/giphy.gif" width="20" height="20" />
+* <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" data-canonical-src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="20" height="20" />  See my portfolio at [jayceese.com](http://www.jayceese.com/#home)
+* <img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" data-canonical-src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" width="20" height="20" /> You can contact me at [jayce.ese@gmail.com](mailto:jayce.ese@gmail.com)
+* <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" data-canonical-src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="20" height="25" />  I'm learning Typescript and Jest
+* <img src="https://media.giphy.com/media/jsGnsfacoYCwG7biMT/giphy.gif" data-canonical-src="https://media.giphy.com/media/jsGnsfacoYCwG7biMT/giphy.gif" width="20" height="20" />  Currently looking to secure my first position as a junior frontend developer
 
 ### Skills
 
@@ -35,5 +36,5 @@ Self-taught Front-End Developer with a strong passion for creating visually appe
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/JayceEse"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayceEse&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/JayceEse"><img src="https://github-readme-stats.vercel.app/api?username=JayceEse&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="JayceEse's GitHub stats" /></a>
+<a href="http://www.github.com/JayceEse"><img src="https://github-readme-stats.vercel.app/api?username=JayceEse&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" height="245" alt="JayceEse's GitHub stats" /></a>
+<a href="https://github.com/JayceEse"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayceEse&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
