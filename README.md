@@ -36,5 +36,5 @@ Self-taught Front-End Developer with a strong passion for creating visually appe
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JayceEse"><img src="https://github-readme-stats.vercel.app/api?username=JayceEse&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" height="245" alt="JayceEse's GitHub stats" /></a>
-<a href="https://github.com/JayceEse"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayceEse&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/JayceEse"><img src="https://github-readme-stats.vercel.app/api?username=JayceEse&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="JayceEse's GitHub stats" /></a>
+<a href="https://github.com/JayceEse"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayceEse&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" width="239" height="auto" alt="Top Languages" /></a>
