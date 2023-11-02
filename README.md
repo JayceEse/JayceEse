@@ -5,12 +5,12 @@ Hi <img src="https://media.giphy.com/media/KqTUO9OHgAW3jhp9JZ/giphy.gif" data-ca
 Developer, Problem Solver, Team Player
 --------------------------------------
 
-Self-taught Front-End Developer with a strong passion for creating visually appealing and user-friendly websites.
+Front-End Developer with a strong passion for creating visually appealing and user-friendly websites and mobile apps.
 
 * <img src="https://media.giphy.com/media/rcSLJHmBdAMfRJ67bs/giphy.gif" data-canonical-src="https://media.giphy.com/media/rcSLJHmBdAMfRJ67bs/giphy.gif" width="20" height="20" />  I'm based in Brisbane, Australia <img src="https://media.giphy.com/media/qnJAun2dmsDBcz7InN/giphy.gif" data-canonical-src="https://media.giphy.com/media/qnJAun2dmsDBcz7InN/giphy.gif" width="20" height="20" />
 * <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" data-canonical-src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="20" height="20" />  See my portfolio at [jayceese.com](http://www.jayceese.com/#home)
 * <img src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" data-canonical-src="https://media.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif" width="20" height="20" /> You can contact me at [jayce.ese@gmail.com](mailto:jayce.ese@gmail.com)
-* <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" data-canonical-src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="20" height="25" />  I'm learning Typescript and Jest
+* <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" data-canonical-src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="20" height="25" />  Currenly learning to make mobile apps with React Native and Typescript
 * <img src="https://media.giphy.com/media/jsGnsfacoYCwG7biMT/giphy.gif" data-canonical-src="https://media.giphy.com/media/jsGnsfacoYCwG7biMT/giphy.gif" width="20" height="20" />  Currently looking to secure my first position as a junior frontend developer
 
 ### Skills
